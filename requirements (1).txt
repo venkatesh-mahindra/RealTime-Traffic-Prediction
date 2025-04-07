@@ -1,9 +1,0 @@
-streamlit
-pandas
-matplotlib
-seaborn
-statsmodels
-scikit-learn
-torch
-torch_geometric
-networkx
